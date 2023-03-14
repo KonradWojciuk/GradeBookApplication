@@ -1,4 +1,6 @@
 ﻿using System;
+using GradeBook.Enums;
+using System.Collections.Generic;
 using GradeBook.UserInterfaces;
 
 namespace GradeBook
